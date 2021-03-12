@@ -1,0 +1,152 @@
+{
+  "store.config": {
+    "supportedLabelFormats": {
+      "H4X2BEAM": {
+        "labelFormat": "H4X2BEAM",
+        "printerType": [
+          "MOBILE"
+        ]
+      },
+      "H2X1BIN": {
+        "labelFormat": "H2X1BIN",
+        "printerType": [
+          "MOBILE"
+        ]
+      },
+      "H4X2BULK": {
+        "labelFormat": "H4X2BULK",
+        "printerType": [
+          "MOBILE"
+        ]
+      },
+      "H4X2BULKP": {
+        "labelFormat": "H4X2BULKP",
+        "printerType": [
+          "MOBILE"
+        ]
+      },
+      "H4X2SOS": {
+        "labelFormat": "H4X2SOS",
+        "printerType": [
+          ""
+        ]
+      },
+      "H4X2RESALE": {
+        "labelFormat": "H4X2RESALE",
+        "printerType": [
+          ""
+        ]
+      },
+      "H4X22PACK": {
+        "labelFormat": "H4X22PACK",
+        "printerType": [
+          "MOBILE"
+        ]
+      },
+      "H4X22PACK2": {
+        "labelFormat": "H4X22PACK2",
+        "printerType": [
+          "MOBILE"
+        ]
+      },
+      "H4X2TOOLRENTAL": {
+        "labelFormat": "H4X2TOOLRENTAL",
+        "printerType": [
+          ""
+        ]
+      },
+      "H3X5TOOLRENTAL": {
+        "labelFormat": "H3X5TOOLRENTAL",
+        "printerType": [
+          ""
+        ]
+      },
+      "H4X213IS": {
+        "labelFormat": "H4X213IS",
+        "printerType": [
+          "MOBILE"
+        ]
+      },
+      "H2X110IS": {
+        "labelFormat": "H2X110IS",
+        "printerType": [
+          ""
+        ]
+      },
+      "H4X221U": {
+        "labelFormat": "H4X221U",
+        "printerType": [
+          ""
+        ]
+      },
+      "H4X2TILE2": {
+        "labelFormat": "H4X2TILE2",
+        "printerType": [
+          ""
+        ]
+      },
+      "H4X2CARPET": {
+        "labelFormat": "H4X2CARPET",
+        "printerType": [
+          ""
+        ]
+      },
+      "H4X2FLOOR": {
+        "labelFormat": "H4X2FLOOR",
+        "printerType": [
+          ""
+        ]
+      },
+      "H4X221DD": {
+        "labelFormat": "H4X221DD",
+        "printerType": [
+          ""
+        ]
+      },
+      "H4X231PDD": {
+        "labelFormat": "H4X231PDD",
+        "printerType": [
+          "MOBILE"
+        ]
+      },
+      "H4X231SPR": {
+        "labelFormat": "H4X231SPR",
+        "printerType": [
+          "MOBILE"
+        ]
+      }
+    },
+    "supportedStockTypes": {
+      "4X2": {
+        "stockType": "4X2",
+        "printerType": [
+          ""
+        ],
+        "queueType": [
+          "NPC@",
+          "DPC@",
+          "S",
+          "@"
+        ]
+      },
+      "2X1": {
+        "stockType": "2X1",
+        "printerType": [
+          ""
+        ],
+        "queueType": [
+          "NPC@",
+          "DPC@",
+          "S",
+          "@"
+        ]
+      }
+    },
+    "supportedFeatures": {
+      "specialValue": {
+        "featureName": "specialValue",
+        "enabled": false
+      }
+    }
+  }
+}
